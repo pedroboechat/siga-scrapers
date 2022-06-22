@@ -10,7 +10,7 @@ The `CURRICULUM.conf` file should contain the curriculum ID you want to extract.
 
 ### How to get the curriculum ID
 
-![Curriculum ID](../assets/curriculum_id.gif)
+![Curriculum ID](../assets/get_id.gif)
 
 ### Sample file
 
